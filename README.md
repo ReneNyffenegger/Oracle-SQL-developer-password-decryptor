@@ -2,7 +2,7 @@
 
 Decrypt passwords stored in Oracle's SQL developer's `connections.xml` and `product-preferences.xml` file.
 
-See also (http://renenyffenegger.ch/notes/development/Software/Oracle-SQL-Developer/Password-decryptor)[this link].
+See also [this link](http://renenyffenegger.ch/notes/development/Software/Oracle-SQL-Developer/Password-decryptor).
 
 ## Links
 
